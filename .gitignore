@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# React
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Upload documenti
+wwwroot/documents/*
+!wwwroot/documents/.gitkeep
