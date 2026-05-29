@@ -20,6 +20,7 @@ Le principali funzionalità includono:
 * autenticazione JWT;
 * supporto multilingua italiano/inglese;
 * tema chiaro/scuro.
+* spinner per caricamento dati, modali di conferma all'utente, responsive.
 
 ---
 
